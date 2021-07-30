@@ -13,14 +13,14 @@ img { width: 200px;
 
 .top {  border-style: inset;
         padding-top:15px;
-        padding-bottom: 150px;
+        padding-bottom: 120px;
         margin-bottom: 10px;  }
 
 .top2 {  border-style: inset;
         padding-top:15px;
         padding-bottom: 150px; }
 
-.middle  {  height: 500px;
+.middle  {  height: 300px;
             border-style: inset;
             padding-top:15px;
             overflow: scroll;  }
